@@ -1,2 +1,2 @@
 # animation
-https://github.com/cheenakshi/animation.git
+https://cheenakshi.github.io/animation/
